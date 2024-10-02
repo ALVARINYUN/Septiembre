@@ -1,6 +1,7 @@
 caraco tv
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 chiringuito
 =======
 .
@@ -12,4 +13,7 @@ chiringuito
 .
 .
 ........................
+>>>>>>> ramab
+=======
+pedro el escamoso
 >>>>>>> ramab

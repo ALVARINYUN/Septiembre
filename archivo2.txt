@@ -1,5 +1,6 @@
 jorge celedon
 <<<<<<< HEAD
+<<<<<<< HEAD
 parrandon
 =======
 .
@@ -9,4 +10,7 @@ parrandon
 =======
 .
 ...........................
+>>>>>>> ramab
+=======
+tanto silencio
 >>>>>>> ramab

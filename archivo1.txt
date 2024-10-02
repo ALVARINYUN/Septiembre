@@ -1,9 +1,13 @@
 grupo niche
 <<<<<<< HEAD
+<<<<<<< HEAD
 grupo gale
 =======
 .
 .
 .
 .....................................
+>>>>>>> ramab
+=======
+gota de lluvia
 >>>>>>> ramab
