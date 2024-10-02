@@ -1,2 +1,7 @@
 caraco tv
+<<<<<<< HEAD
 chiringuito
+=======
+.
+.
+>>>>>>> ramab

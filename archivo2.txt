@@ -1,2 +1,7 @@
 jorge celedon
+<<<<<<< HEAD
 parrandon
+=======
+.
+.
+>>>>>>> ramab
